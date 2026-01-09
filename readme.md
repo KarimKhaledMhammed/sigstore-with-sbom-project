@@ -51,6 +51,10 @@ rekor-cli version
 syft version
 podman version
 ```
+### cosign Version
+![cosign Version Output](images/cosign-version.png)
+
+
 ### Rekor CLI Version
 ![Rekor CLI Version Output](images/rekor-cli-version.png)
 
